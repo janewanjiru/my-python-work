@@ -9,6 +9,8 @@ def divThree(n):
     else:
        divThree(n!=3)
        for m in range(1,n):
+           print(m)
+           
               
 x=[[1,2],[3,4],[5,6]]
 m=[]
