@@ -1,8 +1,6 @@
 x=[100,110,120,130,140,150]
-a=[]
-for b in x:
-    b.append(a*5)
-    print(a)
+y=[b*5 for b in x]
+print(y)
 
 
 def divThree(n):
